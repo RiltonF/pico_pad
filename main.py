@@ -79,6 +79,6 @@ keyboard.keymap = [
 
 
 if __name__ == '__main__':
-    print("Starting Poco_pad")
+    print("Starting Pico_pad")
     keyboard.go()
 
